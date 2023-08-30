@@ -12,8 +12,8 @@
   <li>🏃 Run Marathons</li>
   <li>👨‍💻 Hack On Side Projects
     <ul>
-      <li><a href="https://www.globalentryscan.com">Global Entry Scan</a><a href="https://github.com/EvanKiser/Global-Entry-API">(Repo Here)</a></li>
-      <li>Point Flights (Coming Soon)</li>
+      <li><a href="https://www.globalentryscan.com">GlobalEntryScan.com</a> | <a href="https://github.com/EvanKiser/Global-Entry-API">(Repo Here)</a></li>
+      <li>MaxPoints.io (Coming Soon)</li>
     </ul>
   </li>
 </ul>
