@@ -5,15 +5,7 @@
 </h1>
 
 <h4 align="left">I currently live in San Francisco where I work as a software engineer at <a href="https://www.nuna.com">Nuna</a>. At Nuna we are on a mission to fix the American healthcare system by realigning incentives.</h4>
-
-<h4 align="left">In my free time I like to:</h4>
 <ul>
-  <li>🐱 Play With My Cats</li>
-  <li>🏃 Run Marathons</li>
-  <li>👨‍💻 Hack On Side Projects
-    <ul>
-      <li><a href="https://www.globalentryscan.com">GlobalEntryScan.com</a> | <a href="https://github.com/EvanKiser/Global-Entry-API">(Repo Here)</a></li>
-      <li>MaxPoints.io (Coming Soon)</li>
-    </ul>
-  </li>
+  <li><a href="https://www.globalentryscan.com">GlobalEntryScan.com</a> | <a href="https://github.com/EvanKiser/Global-Entry-API">(Repo Here)</a></li>
+  <li><a href="https://www.pointsparty.com">PointsParty.io</a>| Repo<a href="https://github.com/EvanKiser/flights-api"> API </a><a href="https://github.com/EvanKiser/flights-ui">UI</a></li></li> 
 </ul>
