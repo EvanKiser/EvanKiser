@@ -7,6 +7,6 @@
 <h4 align="left">I currently live in San Francisco where I work as a software engineer at <a href="https://www.nuna.com">Nuna</a>. At Nuna we are on a mission to fix the American healthcare system by realigning incentives.</h4>
 <ul>
   <li><a href="https://www.globalentryscan.com">GlobalEntryScan.com</a> | <a href="https://github.com/EvanKiser/Global-Entry-API">API</a></li>
-  <li><a href="https://www.pointsparty.io">PointsParty.io</a> | Repos <a href="https://github.com/EvanKiser/flights-api">API </a>&<a href="https://github.com/EvanKiser/points-party"> UI</a></li>
+  <li><a href="https://www.pointsparty.io">PointsParty.io</a> | <a href="https://github.com/EvanKiser/flights-api">API </a>&<a href="https://github.com/EvanKiser/points-party"> UI</a></li>
 </li>
 </ul>
